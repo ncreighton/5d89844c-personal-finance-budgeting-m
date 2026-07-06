@@ -1,2 +1,28 @@
-# 5d89844c-personal-finance-budgeting-m
-The personal finance tool you'd build yourself — if you had the time.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Personal Finance &amp; Budgeting Membership And Access Control — fully configured and ready to use - Clean admin settings
+# Personal Finance & Budgeting Membership and Access Control WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x27sL5iT5wg3lm7jCcZF40)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x27sL5iT5wg3lm7jCcZF40)
+
